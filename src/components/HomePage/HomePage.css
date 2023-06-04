@@ -1,0 +1,20 @@
+.homepage {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.create-btn-wrapper {
+    width: 100%;
+    text-align: end;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.post-list-wrapper {
+    width: 100%;
+    padding: 1rem;
+}

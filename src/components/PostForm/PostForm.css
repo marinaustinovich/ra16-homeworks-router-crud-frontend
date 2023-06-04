@@ -1,0 +1,40 @@
+.post-form-wrapper {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem auto;
+    background-color: rgb(241, 241, 241);
+    padding: 2rem 1rem;
+    border-radius: 5px;
+    border: 5px solid #5d5a5a;
+}
+
+.post-form {
+    width: 70%;
+    display: flex;
+}
+
+.cancel-button {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    border: none;
+    transition: transform 0.3s;
+}
+
+.content-input {
+    width: 100%;
+    margin-right: 2rem;
+    resize: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.content-input:focus {
+    border: 1px solid gray;
+    outline: none;
+}
+
+.cancel-button:hover {
+    transform: scale(1.2);
+}

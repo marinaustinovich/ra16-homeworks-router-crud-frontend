@@ -1,0 +1,11 @@
+.post-form-wrapper-change {
+    flex-direction: column;
+}
+
+.change-close-button {
+    margin-bottom:  1rem;
+}
+
+.change-title {
+    text-align: start;
+}

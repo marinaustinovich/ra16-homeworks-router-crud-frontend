@@ -1,0 +1,9 @@
+.post-changes {
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+.change-button {
+    margin-right: 1rem;
+}
