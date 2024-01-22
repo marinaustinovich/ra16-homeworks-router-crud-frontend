@@ -1,9 +1,10 @@
 CRUD
 ===
 
-Вам необходимо реализовать CRUD при работе с HTTP с использованием Router.
+deployment: https://router-crud.onrender.com
 
-Backend вы можете либо написать сами, либо взять готовый из каталога `backend`.
+
+CRUD при работе с HTTP с использованием Router.
 
 ![CRUD](./public/main.png)
 
